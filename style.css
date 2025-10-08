@@ -1,0 +1,79 @@
+body {
+  background-color: black;
+  font-family: 'inter', sans-serif;
+}
+.Container {
+  background-color: rgb(58, 58, 56);
+  border: 3px, black solid;
+  text-align: center;
+  margin: auto;
+  height: 570px;
+  width: 320px;
+  border-radius: 12px;
+  padding: 40px;
+  
+}
+#photo {
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  margin-bottom: 25px;
+}
+h2 {
+  color: white;
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin-bottom: 8px;
+}
+h4 {
+  color: yellowgreen;
+}
+.detail {
+  color: white;
+}
+.github {
+  background-color: rgb(70, 75, 80);
+  border: 1px, grey solid;
+  border-radius: 5%;
+  height: 30px;
+  padding-top: 15px;
+  gap: 12px; 
+}
+.Whatsapp {
+  background-color: rgb(70, 75, 80);
+  border: 1px, grey solid;
+  border-radius: 5%;
+  height: 30px;
+  padding-top: 15px;
+  gap: 12px; 
+}
+#linkedin {
+  background-color: rgb(70, 75, 80);
+  border: 1px, grey solid;
+  border-radius: 5%;
+  height: 30px;
+  padding-top: 15px;
+  gap: 12px;  
+}
+#Instagram {
+  background-color: rgb(70, 75, 80);
+  border: 1px, grey solid;
+  border-radius: 5%;
+  height: 30px;
+  padding-top: 15px;
+  gap: 12px; 
+}
+#tiktok {
+  background-color: rgb(70, 75, 80);
+  border: 1px, grey solid;
+  border-radius: 5%;
+  height: 30px;
+  padding-top: 15px;
+  gap: 12px; 
+}
+.Links {
+  width: 320px;
+  display: block;
+  color: white;
+}
+
